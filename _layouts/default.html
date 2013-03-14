@@ -1,7 +1,8 @@
 {% include head.html %}
   <body{% if page.class %} class="{{ page.class }}" {% endif %}>
-    {% include header.html %}
    <div class="content">
+    {% include header.html %}
+  
       {{ content }}
     
     {% include footer.html %}
