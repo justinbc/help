@@ -79,7 +79,7 @@ img.avatar { margin: 0px 10px 10px 0px;max-width: 245px;max-height: 245px;displa
 /*List Styles*/
 
 ul.li {
-list-style-type: none;
+list-style-type: none; display: block;
 float: left; overflow:hidden;}
 
 
