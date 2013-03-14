@@ -28,7 +28,7 @@ strong {font-weight: 700;}
 
 /*Header and Navigation*/
 
-div.nav {text-align: left; padding: 10px;}
+div.nav {text-align: left; padding: 10px;width: 100%;}
 div.header {text-align: center; margin-top: 70px;}
 
 div.nav ul li {
