@@ -78,11 +78,17 @@ img.avatar { margin: 0px 10px 10px 0px;max-width: 245px;max-height: 245px;displa
 
 /*List Styles*/
 
-ul.li {
+ul {
 list-style-type: none; 
 float: left;
 margin-bottom: 8px;
 width: 225px; }
+
+li {list-style-type: none; 
+float: left;
+margin-bottom: 8px;
+width: 225px;}
+
   
     ul {  padding: 0; float: left;list-style: none;width: 100%;}
     ol { padding:0; margin-left: 36px; }
