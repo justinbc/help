@@ -44,7 +44,7 @@ font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
 
 
 
-div.nav ul { margin-top: -55px; margin-left: 280px; padding: 0; width: 100%; float: none;}
+div.nav ul { margin-top: 50px; margin-left: 280px; padding: 0; width: 100%; float: none;}
 div.logo { margin-bottom: 10px; margin-top: 25px;}
 
 /*Footer*/
@@ -57,6 +57,7 @@ div.end ul { list-style: none; text-align: center;  width: 100%;}
 color: #DDD;
 font-size: 16px;
 display: inline;
+float: none;
 padding-right: 15px;
 line-height: 1.5em; width: 100%;
 margin: 0 .15em 0 0;
