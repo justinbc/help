@@ -80,10 +80,10 @@ img.avatar { margin: 0px 10px 10px 0px;max-width: 245px;max-height: 245px;displa
 /*List Styles*/
 
 ul.li {
-list-style-type: none; display: block;
-overflow:hidden; float: left;
+list-style-type: none; 
+float: left;
 margin-bottom: 8px;
-width: 435px;}
+width: 225px;}
 
 .top-ten li:nth-of-type(odd) {
 margin-right: 30px;
