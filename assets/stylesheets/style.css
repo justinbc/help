@@ -31,7 +31,7 @@ strong {font-weight: 700;}
 div.nav {text-align: left; padding: 10px;width: 100%;}
 div.header {text-align: center; margin-top: 70px;}
 
-div.nav ul li {
+div.nav ul li {float: none;
 list-style-type: none;
 display: inline;
 margin-top: 8px;
@@ -42,9 +42,9 @@ width: 100%;
 font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
 }
 
-div.nav li {width: 100%;}
 
-div.nav ul { margin-top: -55px; margin-left: 280px; padding: 0; width: 100%;}
+
+div.nav ul { margin-top: -55px; margin-left: 280px; padding: 0; width: 100%; float: none;}
 div.logo { margin-bottom: 10px; margin-top: 25px;}
 
 /*Footer*/
