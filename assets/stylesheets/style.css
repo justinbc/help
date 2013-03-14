@@ -65,6 +65,7 @@ margin: 0 .15em 0 0;
 
 div.engage {
 border: 1px solid #ddd;
+clear: both;
 text-align: center;
 padding: 22px;
 margin: 10px auto 20px auto;
