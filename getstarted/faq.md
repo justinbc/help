@@ -33,13 +33,13 @@ There are no restrictions on file size. Upload away!
 
 Bitcasa maintains a record of your files and folders that belong to you. When a change is made to your folders, including deletion of files or folders, we update your record and save the changes you made. To restore your files and folders, revert to a previous record by following these steps: 
 
-1. Go to https://portal.bitcasa.com and sign in.
-2. Click the Versions link on the top right. A calendar will appear.
+1. Go to [https://portal.bitcasa.com](https://portal.bitcasa.com) and sign in.
+2. Click the *Versions* link on the top right. A calendar will appear.
 3. Select the date and time prior to deleting the file or folder.
-4. Select the folder you wish to restore and click the Share button.
-5. Click the Copy Link.
+4. Select the folder you wish to restore and click the *Share* button.
+5. Click the *Copy* link.
 6. Paste the link in a new tab or window.
-7. Click the Add to your Bitcasa Drive.
+7. Click *Add to your Bitcasa Drive*.
 
 Alternatively, you can perform the same steps as above, but instead of clicking Share, click Download to download the contents of that folder. However, this may take some time to download depending on the size of that folder. We recommend performing the steps above before downloading.
 
@@ -47,7 +47,7 @@ Alternatively, you can perform the same steps as above, but instead of clicking 
 
 ####How do I restore a backup from Bitcasa to my computer?
 
-Head over to the web portal and find the file or folder you want to recovery. Click on the download icon located on the right side of the page, next to the trash can icon. Your content will be downloaded in a .zip file. 
+Head over to the web portal and find the file or folder you want to recover. Click on the download icon located on the right side of the page, next to the trash can icon. Your content will be downloaded in a .zip file. 
 
 ---
 
@@ -56,7 +56,7 @@ Head over to the web portal and find the file or folder you want to recovery. Cl
 We use enterprise-grade methods to verify encryption and transmission of your data. If your transfer is interrupted, nothing is lost of corrupted. Here are some best practices to make sure your files get across smoothly:
 
 Make sure you've got a stable connection to the net. 
-If you're on a WiFI connection, double check your signal. 
+If you're on a WiFi connection, double check your signal. 
 Plug-in your charger and adjust your power settings to keep your computer awake during transfers. 
 Be mindful of large file uploads! 
 Why can't I play certain file types on the web portal? 
@@ -67,7 +67,7 @@ We support a bunch of popular formats, however there are a few that require spec
 
 ####What's the best way to move my files to Bitcasa?
 
-Transfer data to your Infinite Driving using the copy action on your computer. If you want to delete local content after a transfer is complete, check the web portal to make sure your files are available before deleting items on your computer. 
+Transfer data to your Infinite Driving using the *copy* action on your computer. If you want to delete local content after a transfer is complete, check the web portal to make sure your files are available before deleting items on your computer. 
 
 ---
 
