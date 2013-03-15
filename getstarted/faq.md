@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Frequently Asked Questions
+published: true
 ---
 
 ##Frequently Asked Questions
