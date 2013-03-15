@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 published: true
 title: All about the Web Portal
 ---
