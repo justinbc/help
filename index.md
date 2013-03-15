@@ -12,7 +12,7 @@ title: Bitcasa Help Center
 * [Troubleshooting tools for the power user](#)
 * [All about our datacenters](#)
 * [The complete guide to uninstalling](#)
-* [Joe like's sad music](#)
+* [Joe likes sad music](#)
 * [Luke, he really IS your father](#)
 
 
