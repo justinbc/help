@@ -84,16 +84,15 @@ img.avatar { margin: 0px 10px 10px 0px;max-width: 245px;max-height: 245px;displa
 ul li {
 list-style-type: none; 
 float: left;
-border-bottom: 1px solid #efefef;
 padding-bottom: 8px;
 margin-bottom: 8px;
-width: 100% }
+width: 303px; }
   
     ul {  padding: 0; float: left;list-style: none;width: 100%;}
     ol { padding:0; margin-left: 36px; }
 
 
-.top-ten li:nth-of-type(odd) {
+li:nth-of-type(odd) {
 margin-right: 200px;
 
 }
