@@ -22,7 +22,7 @@ Locate and delete the folders named *com.bitcasa.Bitcasa* and *Bitcasa*.
 4. Reinstall Bitcasa.
 5. Enter your login credentials and close Bitcasa. Bitcasa will then bypass the login screen upon opening the application.
 
-####Files are grey in the desktop application; “1984” date (Mac)
+####Files are grey in the desktop application; 1984 date (Mac)
 
 Users of the Mac Desktop App have reported that some image files and PDF files which have been dragged into the Infinite Drive or a subfolder become greyed out. These files appear to be locked by Finder, and the “Date Modified” reads “xx/xx/1984.” We're working on a fix! See the instructions below for a current workaround to unlock these files:
 
