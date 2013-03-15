@@ -13,7 +13,9 @@ Bitcasa [web access](https://my.bitcasa.com) is a web interface for accessing yo
 ![Installation](/help/img/webportal.png "Accounts")
 
 ####How do I roll back or restore a previous version?
-Bitcasa stores unique versions of all your files and folders, forever. This means that you can *rollback* your data to any date and time in history. You can then download that version of any file or folder to your local device. See [this article](#) for instructions on how to revert files to a previous version.
+Bitcasa stores unique versions of all your files and folders, forever. This means that you can *rollback* your data to any date and time in history. You can then download that version of any file or folder to your local device. Click the *Versions* menu to reveal the calendar. 
+
+![Installation](/help/img/versions.png "Accounts")
 
 ####Can I edit documents within the web portal?
 Not at the moment. You'll need to download the file, make your changes, and re-upload the file. 
