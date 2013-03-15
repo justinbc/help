@@ -23,7 +23,7 @@ When copying a large number of files to the Bitcasa Infinite Drive, some users r
 Furthermore, upon looking through previous versions of the files, a user may find that all files may have uploaded successfully, and are available. Our engineers are aware of this issue, and are working to fix it.
 
 
-####CORE 1701 High memory usage when copying or mirroring
+####CORE 1701 - High memory usage when copying or mirroring
 When copying and/or mirroring data to the Bitcasa Infinite Drive using the Windows Desktop Application, some users are experiencing unusually high memory usage. Our engineers are aware of this issue, and are working to fix it.
 
 
