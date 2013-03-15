@@ -16,3 +16,6 @@ published: true
 4. After you've completed the installation, you'll need to create a new account or login to your existing account. 
 
 ![Installation](http://f.cl.ly/items/3Y1K06001X0m2O2c4637/Bitcasa.png "Setup")
+
+![Installation](http://f.cl.ly/items/1Z2l0w0v1w1V2H0z3v3e/account.png "Accounts")
+
