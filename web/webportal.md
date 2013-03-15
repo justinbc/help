@@ -8,7 +8,7 @@ title: All about the Web Portal
 ###View and manage all of your files from the web
 
 ####What is Bitcasa web access?
-Bitcasa web access (https://my.bitcasa.com) is a web interface for accessing your content and managing your account. You can play your music, watch movies, or view photo albums and documents. You can also upload files to Bitcasa, or download files to your computer or mobile device. You can also share any of your files easily with friends and family. In addition, the web portal allows you to browse through old *versions* of your files and folders so you can go back and recover previous versions of your files. 
+Bitcasa [web access](https://my.bitcasa.com) is a web interface for accessing your content and managing your account. You can play your music, watch movies, or view photo albums and documents. You can also upload files to Bitcasa, or download files to your computer or mobile device. You can also share any of your files easily with friends and family. In addition, the web portal allows you to browse through old *versions* of your files and folders so you can go back and recover previous versions of your files. 
 
 ####How do I roll back or restore a previous version?
 Bitcasa stores unique versions of all your files and folders, forever. This means that you can *rollback* your data to any date and time in history. You can then download that version of any file or folder to your local device. See [this article](#) for instructions on how to revert files to a previous version.
@@ -17,7 +17,7 @@ Bitcasa stores unique versions of all your files and folders, forever. This mean
 Not at the moment. You'll need to download the file, make your changes, and re-upload the file. 
 
 ####Can I access the web portal from my mobile web browser?
-Yes! Just head over to https://my.bitcasa.com using your mobile browser. For the best mobile experience, download our mobile apps on Google Play or the App Store.
+Yes! Just head over to [https://my.bitcasa.com](https://my.bitcasa.com) using your mobile browser. For the best mobile experience, download our mobile apps on Google Play or the App Store.
 
 ####How does the web portal play videos? What file types are supported?
 The web portal will attempt to play file natively in your browser using HTML5. If your web browser can't play the file, we 'll quickly transcode the file into flash to be accessible on all platforms.
