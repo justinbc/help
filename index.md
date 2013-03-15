@@ -8,18 +8,12 @@ title: Bitcasa Help Center
 
 
 * [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
-* [Frequently Asked Questions](#)
+* [The scoop on security](#)
+* [Troubleshooting tools for the power user](#)
+* [All about our datacenters](#)
+* [The complete guide to uninstalling](#)
+* [Joe like's sad music](#)
+* [Luke, he really IS your father](#)
+
 
 
