@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 title: Frequently Asked Questions
 published: true
 ---
