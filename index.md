@@ -7,7 +7,7 @@ title: Bitcasa Help Center
 ###Simple answers to common questions
 
 
-* [Frequently Asked Questions](/getstarted/faq.md)
+* [Frequently Asked Questions](/_site/getstarted/faq.md)
 * [The scoop on security](#)
 * [Troubleshooting tools for the power user](#)
 * [All about our datacenters](#)
