@@ -8,7 +8,7 @@ title: Bitcasa Help Center
 
 * [Frequently Asked Questions](getstarted/faq)
 * [Everything you need to know about security](#)
-* [Troubleshooting tools and tips for the power user](#)
+* [Troubleshooting tips for the power user](#)
 * [The complete guide to installing Bitcasa](#)
 * [The complete guide to uninstalling](#)
 * [Joe likes sad music](#)
