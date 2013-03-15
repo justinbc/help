@@ -24,7 +24,7 @@ Locate and delete the folders named *com.bitcasa.Bitcasa* and *Bitcasa*.
 
 ####Files are grey in the desktop application; 1984 date (Mac)
 
-Users of the Mac Desktop App have reported that some image files and PDF files which have been dragged into the Infinite Drive or a subfolder become greyed out. These files appear to be locked by Finder, and the “Date Modified” reads “xx/xx/1984.” We're working on a fix! See the instructions below for a current workaround to unlock these files:
+Users of the Mac Desktop App have reported that some image files and PDF files which have been dragged into the Infinite Drive or a subfolder become greyed out. These files appear to be locked by Finder, and the *Date Modified* reads "xx/xx1984." We're working on a fix! See the instructions below for a current workaround to unlock these files:
 
 1. Open the Terminal and type: **"xattr -c"**
 2. Drag the greyed out files from Finder into the Terminal window.
