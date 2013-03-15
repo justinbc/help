@@ -85,15 +85,15 @@ ul li {
 list-style-type: none; 
 float: left;
 margin-bottom: 8px;
-width: 405px; }
+width: 300px; }
   
     ul {  padding: 0; float: left;list-style: none;width: 100%;}
-    ol { padding:0; margin-left: 46px; }
+    ol { padding:0; margin-left: 36px; }
 
 
 .top-ten li:nth-of-type(odd) {
-margin-right: 50px;
-margin-left: 100px;
+margin-right: 200px;
+
 }
 
 
