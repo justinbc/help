@@ -21,6 +21,14 @@ published: true
 
 ![Installation](http://f.cl.ly/items/120N3L2k0c462L3K1k2G/name.png "Create an account")
 
+5. Open your Infinite Drive from **Finder** (Mac), the desktop (Mac or PC), or **Explorer** (Windows). 
+
+![Installation](http://f.cl.ly/items/413F3j1y3q2O1M38202n/finder.png "Create an account")
+
+6. Install Bitcasa on your other computers to access anything from anywhere! 
+
+
+
 
 
 
