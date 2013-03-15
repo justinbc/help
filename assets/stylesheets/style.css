@@ -88,7 +88,13 @@ border-radius: 2px;
 div.engage p{ margin-top: -40px; line-height: 1.5;}
 
 
-img.avatar { margin: 0px 10px 10px 0px;max-width: 245px;max-height: 245px;display: block;float: left;overflow: hidden;clear: both;}
+img.avatar { margin: 0px 10px 10px 0px;max-width: 245px;max-height: 245px;display: block;float: left;overflow: hidden;clear: both;-moz-border-radius: none;
+-webkit-border-radius: none;
+-moz-background-clip: none;
+-webkit-background-clip: none;
+background-clip: none;
+box-shadow: 0px 0px 0px rgba(0,0,0,.0);
+-moz-box-shadow: 0px 0px 0px rgba(0,0,0,.0);}
 
 /*List Styles*/
 
