@@ -29,7 +29,7 @@ strong {font-weight: 700;}
 /*Header and Navigation*/
 
 div.nav {text-align: left; width: 100%;}
-div.header {text-align: center; margin-top: 70px;}
+div.header {text-align: center; margin-top: 30px;}
 
 div.nav ul li {float: none;
 list-style-type: none;
