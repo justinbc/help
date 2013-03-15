@@ -10,12 +10,17 @@ title: All about the Web Portal
 ####What is Bitcasa web access?
 Bitcasa [web access](https://my.bitcasa.com) is a web interface for accessing your content and managing your account. You can play your music, watch movies, or view photo albums and documents. You can also upload files to Bitcasa, or download files to your computer or mobile device. You can also share any of your files easily with friends and family. In addition, the web portal allows you to browse through old *versions* of your files and folders so you can go back and recover previous versions of your files. 
 
-![Installation](/help/img/webportal.png "Accounts")
+![Installation](/help/img/webportal.png "Portal Overview")
 
 ####How do I roll back or restore a previous version?
 Bitcasa stores unique versions of all your files and folders, forever. This means that you can *rollback* your data to any date and time in history. You can then download that version of any file or folder to your local device. Click the *Versions* menu to reveal the calendar. 
 
-![Installation](/help/img/versions.png "Accounts")
+![Installation](/help/img/versions.png "Versions")
+
+####How do I modify my account information? 
+Click on the email address in the upper right hand corner of the web portal. Follow the **Accounts and Settings** link to modify account information. 
+
+![Installation](/help/img/accounts.png "Accounts")
 
 ####Can I edit documents within the web portal?
 Not at the moment. You'll need to download the file, make your changes, and re-upload the file. 
