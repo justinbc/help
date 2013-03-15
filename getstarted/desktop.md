@@ -13,9 +13,17 @@ published: true
 2. Double-click the **Bitcasa Setup** (PC) or the **Bitcasa_XXXX.pkg** (Mac) file to begin installation. 
 3. Follow the onscreen instructions. You'll be prompted to pick an installation location first. You may need to enter your password  to authorize the application install. 
 
-4. After you've completed the installation, you'll need to create a new account or login to your existing account. 
-
-![Installation](http://f.cl.ly/items/3Y1K06001X0m2O2c4637/Bitcasa.png "Setup")
+4. After you've completed the installation, you'll need to create a new account or login to your existing account:
 
 ![Installation](http://f.cl.ly/items/1Z2l0w0v1w1V2H0z3v3e/account.png "Accounts")
+
+![Installation](http://f.cl.ly/items/120N3L2k0c462L3K1k2G/name.png "Create an account")
+
+![Installation](http://f.cl.ly/items/2C2w3o2U0i0h2w110D0G/create.png "Name your computer")
+
+
+
+
+
+
 
