@@ -34,7 +34,7 @@ div.header {text-align: center; margin-top: -20px;}
 div.nav ul li {float: none;
 list-style-type: none;
 display: inline;
-margin-left: none;
+margin-left: 0px;
 margin-top: 8px;
 margin-right: 8px;
 padding: 0 8px 0;
@@ -85,6 +85,7 @@ img.avatar { margin: 0px 10px 10px 0px;max-width: 245px;max-height: 245px;displa
 ul li {
 list-style-type: none; 
 float: left;
+margin-left: 0px;
 margin-bottom: 8px;
 width: 300px; }
   
