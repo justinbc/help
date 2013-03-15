@@ -93,6 +93,7 @@ width: 305px; }
 
 .top-ten li:nth-of-type(odd) {
 margin-right: 50px;
+margin-left: 100px;
 }
 
 
