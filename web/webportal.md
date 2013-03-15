@@ -40,7 +40,7 @@ To upload multiple files, hold Ctrl (PC) or Command (Mac) when you clicking to s
 ####How do I share a file or folder?
 You can easily share your photos, videos, documents, and more with friends and colleagues, even if they don't have Bitcasa. To share files from the web portal: 
 
-1. Sign-in at https://my.bitcasa.com 
+1. Sign-in at [https://my.bitcasa.com](https://my.bitcasa.com)
 2. Click on the *Share* icon next to the folder or file.
 3. In the dialog box, click *Copy Link*.
 4. Send the link to anyone over email, IM, Facebook, Twitter, etc.
