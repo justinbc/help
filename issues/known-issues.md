@@ -26,14 +26,14 @@ Locate and delete the folders named *com.bitcasa.Bitcasa* and *Bitcasa*.
 
 Users of the Mac Desktop App have reported that some image files and PDF files which have been dragged into the Infinite Drive or a subfolder become greyed out. These files appear to be locked by Finder, and the “Date Modified” reads “xx/xx/1984.” We're working on a fix! See the instructions below for a current workaround to unlock these files:
 
-1. Open the Terminal and type **“xattr -c”** 
+1. Open the Terminal and type: **"xattr -c"**
 2. Drag the greyed out files from Finder into the Terminal window.
 Hit “Enter.”
 3. The greyed out files should appear black again, and be accessible to the user.
 
 We know, it's not [1984](http://www.youtube.com/watch?v=KvkKX035484). 
 
-####Bitcasa Infinite Drive “ejects,” appears to be empty (Mac)
+####Bitcasa Infinite Drive "ejects", appears to be empty (Mac)
 
 The Bitcasa Infinite Drive may at times "eject" arbitrarily, and then appear as empty. When this happens, users will see that the green Bitcasa icon has changed to a blue, generic folder icon. Furthermore, when looking in the console log, users may see eject errors associated with the Bitcasa Infinite Drive. We're working on a fix. 
 
