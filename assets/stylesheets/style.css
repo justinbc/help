@@ -91,7 +91,7 @@ width: 300px; }
     ol { padding:0; margin-left: 36px; }
 
 
-li:nth-of-type(odd) {
+ul li:nth-of-type(odd) {
 margin-right: 200px;
 
 }
