@@ -33,7 +33,7 @@ You'll need a browser that supports HTML5. We recommend the latest stable releas
 It's not currently possible to reorder your data within the web portal. This can be completed in the desktop application. The new order will sync across and be reflected in the portal. 
 
 ####Can I delete my data from the web portal?
-Yes. However, you'll be unable to delete files and folders that are *mirrored*. 
+Yes. However, you'll be unable to delete files and folders that are *mirrored*. To delete content, click on the trashcan icon on the right side of the row belonging to your file. 
 
 ####I don't see any thumbnails!
 Try logging out and then back in to the web portal. You should see your thumbnails appear after a fresh login. 
@@ -52,5 +52,5 @@ You can easily share your photos, videos, documents, and more with friends and c
 ####Why is everything downloaded in a .zip file? 
 Whenever you download more than one file, we compress everything in to one folder. 
 
-####How can I delete something? Are there any limitations?
-To delete content, click on the trashcan icon on the right side of the row belonging to your file. 
+
+
