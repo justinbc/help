@@ -7,6 +7,7 @@ title: Bitcasa Help Center
 ###Simple answers to common questions
 * [Known issues with Bitcasa](issues/known-issues)
 * [Frequently Asked Questions](getstarted/faq)
+* [Install Bitcasa on your desktop](getstarted/desktop)
 * [Everything you need to know about security](#)
 * [Troubleshooting tips for the power user](#)
 * [The complete guide to installing Bitcasa](#)
