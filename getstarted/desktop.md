@@ -22,7 +22,7 @@ published: true
 
 ![Installation](http://f.cl.ly/items/120N3L2k0c462L3K1k2G/name.png "Create an account")
 
-![Installation](http://f.cl.ly/items/1c0n1F2f262Y3L2F451H/mirror.png "Mirror your files!")
+![Installation](http://f.cl.ly/items/3K1L2m1u2V2t1t3y263s/mirror_folders.png "Mirror your files!")
 
 ![Installation](http://f.cl.ly/items/413F3j1y3q2O1M38202n/finder.png "Open the Infinite Drive")
 
