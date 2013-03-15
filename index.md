@@ -7,9 +7,9 @@ title: Bitcasa Help Center
 ###Simple answers to common questions
 
 * [Frequently Asked Questions](getstarted/faq)
-* [The scoop on security](#)
-* [Troubleshooting tools for the power user](#)
-* [All about our datacenters](#)
+* [Everything you need to know about security](#)
+* [Troubleshooting tools and tips for the power user](#)
+* [The complete guide to installing Bitcasa](#)
 * [The complete guide to uninstalling](#)
 * [Joe likes sad music](#)
 * [Luke, he really IS your father](#)
