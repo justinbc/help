@@ -19,7 +19,7 @@ title: Bitcasa Help Center
 ##Web Portal
 ###Learn how to use the Bitcasa web interface
 
-* [Frequently Asked Questions](web/webportal)
+* [All about the web portal](web/webportal)
 
 ---
 
