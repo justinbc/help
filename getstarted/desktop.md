@@ -17,15 +17,9 @@ published: true
 
 4. After you've completed the installation, you'll need to create a new account or login to your existing account. Name your computer and click *done*.
 
-![Installation](http://f.cl.ly/items/1Z2l0w0v1w1V2H0z3v3e/account.png "Accounts")
-
-![Installation](http://f.cl.ly/items/2C2w3o2U0i0h2w110D0G/create.png "Name your computer")
-
 5. If this is the first time you've installed Bitcasa, you'll be prompted to mirror your folders. This is optional, and you can always mirror folders later. 
 
 6. Open your Infinite Drive from **Finder** (Mac), the desktop (Mac or PC), or **Explorer** (Windows). 
-
-
 
 ![Installation](http://f.cl.ly/items/1Z2l0w0v1w1V2H0z3v3e/account.png "Accounts")
 
@@ -33,9 +27,9 @@ published: true
 
 ![Installation](http://f.cl.ly/items/120N3L2k0c462L3K1k2G/name.png "Create an account")
 
+![Installation](http://f.cl.ly/items/1c0n1F2f262Y3L2F451H/mirror.png "Mirror your files!")
+
 ![Installation](http://f.cl.ly/items/413F3j1y3q2O1M38202n/finder.png "Open the Infinite Drive")
-
-
 
 
 
