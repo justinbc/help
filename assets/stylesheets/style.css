@@ -7,7 +7,7 @@ body { color: #212C2F; font: normal normal 400 16px/1.60em "source-sans-pro", "H
       blockquote,ol,p,ul { display: block; margin: 0 0 1.5em }
       blockquote { border-left: solid .1em #E4E4E4; color: #919191; padding: 0 1.5em 0 1.4em }
       code { text-align: center;font: normal normal 400 13px/1.5em "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif; color:#666; padding-bottom: 15px;}
-      img { display: block; margin: 1.5em auto; border-radius: 5px; max-width: 750px;
+      img { display: block; margin: 1.5em auto; border-radius: 5px; max-width: 750
 -moz-border-radius: 5px;
 -webkit-border-radius: 5px;
 -moz-background-clip: padding;
@@ -19,7 +19,7 @@ box-shadow: 0px 1px 5px rgba(0,0,0,.6);
       pre { display: block; font: normal normal 87.5%/1.71428571em monospace,sans-serif; margin: 1.71428571em }
       h1,h2,h3,h4,h5,h6 { font-family: "source-sans-pro", "Helvetica Neue", helvetica, arial, sans-serif; text-align: left; }
       h1 { font-size: 27px; line-height: 1.3334em; margin: 0 0 .1666em; font-weight: 800;}
-      h2 { font-size: 160%; line-height: 1.28571429em; font-weight: 300; color: #FF6600;  }
+      h2 { font-size: 160%; line-height: 1.28571429em; font-weight: 800; color: #FF6600;  }
       h3 { font-size: 116%; margin-bottom:22px;font-weight: 300; color: #999;  margin-top: -20px;}
       h4 { font-size: 118%; margin-bottom:16px;font-weight: 800; color: #444;  margin-top: -10px;}
       h5 {font-size: 180%; font-weight: 300; text-transform: none;text-align: center; color: #444; display: block;font-family: "source-sans-pro", "Helvetica Neue", helvetica, arial, sans-serif;padding-top: 5px; line-height:1.3; }
