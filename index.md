@@ -8,12 +8,6 @@ title: Bitcasa Help Center
 * [Known issues with Bitcasa](product/known-issues)
 * [Frequently Asked Questions](getstarted/faq)
 * [Install Bitcasa on your desktop](getstarted/desktop)
-* [Everything you need to know about security](#)
-* [Troubleshooting tips for the power user](#)
-* [The complete guide to installing Bitcasa](#)
-* [The complete guide to uninstalling](#)
-* [Joe likes sad music](#)
-* [Luke, he really IS your father](#)
 
 ---
 
@@ -29,19 +23,6 @@ title: Bitcasa Help Center
 
 * [Chrome - Bitcasa Everywhere](extensions/chrome-extension)
 
----
-
-##More Topics Here
-###Simple answers to common questions
-
-
-* [Frequently Asked Questions](#)
-* [The scoop on security](#)
-* [Troubleshooting tools for the power user](#)
-* [All about our datacenters](#)
-* [The complete guide to uninstalling](#)
-* [Joe likes sad music](#)
-* [Luke, he really IS your father](#)
 
 
 
