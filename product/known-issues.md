@@ -1,5 +1,5 @@
 ---
-layout: bugs
+layout: article
 title: Known Issues
 published: true
 ---
@@ -12,8 +12,7 @@ Files are grey in the desktop application; 1984 date (Mac). We know, it's not [1
 Bitcasa Infinite Drive "ejects", appears to be empty (Mac)		
 Slowness, timing out when sharing a Bitcasa link		
 Finder restarts upon exiting the Bitcasa desktop application (Mac)		
-Bitcasa crashes while mirroring, does not resume		
-Login credentials not remembered (Windows)		
+Bitcasa crashes while mirroring, does not resume			
 Total usage counter displaying incorrect information		
 Slow uploads associated with latency		
 
