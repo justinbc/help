@@ -46,6 +46,20 @@ width: 100%;
 
 }
 
+.panel {background: #fff;
+padding: 30px;
+margin: 40px auto 20px auto;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-background-clip: padding;
+-webkit-background-clip: padding-box;
+background-clip: padding-box;
+box-shadow: 0px 1px 5px rgba(0,0,0,.2);
+-moz-box-shadow: 0px 1px 5px rgba(0,0,0,.2);
+-webkit-box-shadow: 0px 1px 5px rgba(0,0,0,.2);
+}
+
 
 div.nav ul { margin-top: 40px; margin-left: 280px; padding-top: 28px; width: 100%; float: none;}
 div.logo { margin-bottom: 10px; margin-top: 25px; width: 72px;}
