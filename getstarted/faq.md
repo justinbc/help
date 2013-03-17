@@ -82,3 +82,4 @@ We do quite a bit of encryption work on your files before they're sent to our se
 If you are not on the North American continent, you are may have performance that is less than optimal. We are exploring additional datacenters around the world to improve performance for our non-US customers. 
 
 **Equipment:** Many low-end consumer routers can't handle high traffic rates. You'd see this reflected in speed tests though. Some devices have very large or very small buffers, both of which can impact TCP algorithms. 
+
