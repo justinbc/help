@@ -17,6 +17,7 @@ published: true
 * [What's the best way to move my files?](#move-files)		
 * [What's the deal with transfer speeds?](#transfer-speeds)
 * [What happens when I exceed 10GB?](#exceed)
+* [Do you still support legacy versions?](#legacy)
  
 ---
 
@@ -106,4 +107,7 @@ We'll send you a quick email notification to let you know you've gone over the 1
 
 If your account is over the 10GB storage limit after the two-day period, you will no longer be able to upload any additional content and will only be able to view or delete files. After 30 days, your account will be suspended and you will not be able to sign into your account unless you upgrade to Infinite or reduce your storage to less than 10GB. Your account and content are retained for an additional 90 days from the date your account is suspended. If you upgrade within 90 days, your account and files will be fully restored!
 
+####<a id="legacy"></a>Do you still support *legacy* versions? 
+
+We no longer provide support for the *legacy* versions of Bitcasa. We've released an improved version of the desktop application which is updated regularly. The newest version is greatly simplified and integrated more deeply into your computer's operating system. Previous version for Windows are builds 1963 and below. For Mac, versions 2679 and below. Please make sure your desktop clients are [up-to-date](https://www.bitcasa.com/download).
 
