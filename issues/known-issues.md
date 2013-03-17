@@ -1,5 +1,5 @@
 ---
-layout: known
+layout: article
 title: Known Issues
 published: true
 ---
