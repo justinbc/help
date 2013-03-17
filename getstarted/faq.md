@@ -26,7 +26,7 @@ All data is encrypted client-side before being sent to Bitcasa. Because data is 
 
 ---
 
-####<a id="#3">Is there a limitation on file size?</a> 
+####<a id="3">Is there a limitation on file size?</a> 
 
 There are no restrictions on file size. Upload away! 
 
