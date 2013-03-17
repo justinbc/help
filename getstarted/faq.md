@@ -7,9 +7,9 @@ published: true
 ##Frequently Asked Questions
 ###Simple answers to common questions
 
-[What is Bitcasa?](#bitcasa)
-[What kind of security features are in place?](#security)
-[Is there a limitation on file size?](#limitation)
+[What is Bitcasa?](#bitcasa) 
+[What kind of security features are in place?](#security) 
+[Is there a limitation on file size?](#limitation) 
 
 
 ####<a id="bitcasa">What is Bitcasa?</a>
