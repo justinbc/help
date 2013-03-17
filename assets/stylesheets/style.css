@@ -109,9 +109,9 @@ padding-bottom: 8px;
 
 }
 
-img { max-width: 750px; display: block; margin:  auto; border-radius: 5px; 
--moz-border-radius: 5px;
--webkit-border-radius: 5px;
+img { max-width: 750px; display: block; margin:  auto; border-radius: 3px; 
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
 -moz-background-clip: padding;
 -webkit-background-clip: padding-box;
 background-clip: padding-box;
