@@ -10,6 +10,7 @@ title: Bitcasa Help Center
 * [Install Bitcasa on your desktop](getstarted/desktop)
 * [Transferring files to your Infinite Drive](getstarted/transfer)
 * [Account administration](getstarted/accounts)
+* [Security Information](getstarted/security)
 
 ---
 
