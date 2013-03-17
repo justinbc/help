@@ -37,17 +37,7 @@ You will receive an email with a reset link. Clicking the link will require you 
 
 ![](http://f.cl.ly/items/252N1n2L3Y0D2L0m163F/iA%20Writer.png)
 
-
-
-
-
-
-
-
-
-
-
-
+___
 
 ####What if I exceed my 10GB storage limit with a Free account?
 
