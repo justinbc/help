@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: bugs
 title: Known Issues
 published: true
 ---
