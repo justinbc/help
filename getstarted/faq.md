@@ -18,7 +18,7 @@ published: true
 * [What's the deal with transfer speeds?](#transfer-speeds)
 * [What happens when I exceed 10GB?](#exceed)
  
-
+---
 
 ####<a id="bitcasa"></a>What is Bitcasa?
 
