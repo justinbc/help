@@ -7,7 +7,7 @@ published: true
 ##Frequently Asked Questions
 ###Simple answers to common questions
 
-[What is Bitcasa?][#1]
+[What is Bitcasa?](#1)
 [What kind of security features are in place?][]
 [Is there a limitation on file size?][]
 
