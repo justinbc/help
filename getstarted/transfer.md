@@ -17,7 +17,7 @@ You can access your files from any computer or mobile device. Your files are str
 
 There are a few different ways to get your data to your Infinite Drive. Use whatever works best for you: 
 
-1. Drag and drop your files into your Infinite Drive. 
+1. Drag and drop your files into your Infinite Drive (recommended).
 2. Right-click on the file, select **Bitcasa** from the drop down menu, and then select **Copy this to Bitcasa**. 
 3. Mirror your folders to Bitcasa. 
 
