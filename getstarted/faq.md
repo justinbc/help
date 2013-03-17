@@ -13,7 +13,7 @@ published: true
 [I accidentally deleted a file or folder!](#deleted)		
 [How do I restore a backup?](#restore)		
 [What are the upload risks?](#upload-risks)		
-[What's the best way to move my files?(#move-files)		
+[What's the best way to move my files?](#move-files)		
  
 
 
