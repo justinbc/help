@@ -10,17 +10,20 @@ published: true
 [What is Bitcasa?](#bitcasa)		
 [What kind of security features are in place?](#security)		 
 [Is there a limitation on file size?](#limitation)		
-[I accidentally deleted a file or folder from my Infinite Drive. Can I recover my data?](#deleted)		
+[I accidentally deleted a file or folder!](#deleted)		
+[How do I restore a backup?](#restore)		
+[What are the upload risks?](#upload-risks)		
+[What's the best way to move my files?(#move-files)		
  
 
 
-####<a id="bitcasa">What is Bitcasa?</a>
+####<a id="bitcasa"></a>What is Bitcasa?
 
 Bitcasa is an external hard drive in the cloud that never runs out of space. You can access your data from anywhere and from any device. Ditch the external hard drives, and store your files in your Bitcasa Infinite Drive to free up space on your computer and mobile device. Never run out of space again! 
 
 ---
 
-####<a id="security">What kind of security features are in place?</a>
+####<a id="security"></a>What kind of security features are in place?
 
 All of your data is private, protected, and secure. Files and folders uploaded to Bitcasa are encrypted using AES-256 bit encryption and sent over a secure connection using Secure Socket Layer (SSL).
 
@@ -52,13 +55,13 @@ Alternatively, you can perform the same steps as above, but instead of clicking 
 
 ---
 
-####How do I restore a backup from Bitcasa to my computer?
+####<a id="restore"></a>How do I restore a backup from Bitcasa to my computer?
 
 Head over to the web portal and find the file or folder you want to recover. Click on the download icon located on the right side of the page, next to the trash can icon. Your content will be downloaded in a .zip file. 
 
 ---
 
-####What are the upload risks? Do I need to worry about corrupt files?
+####<a id="upload-risks"></a>What are the upload risks? Do I need to worry about corrupt files?
 
 We use enterprise-grade methods to verify encryption and transmission of your data. If your transfer is interrupted, nothing is lost of corrupted. Here are some best practices to make sure your files get across smoothly:
 
@@ -72,7 +75,7 @@ We support a bunch of popular formats, however there are a few that require spec
 
 ---
 
-####What's the best way to move my files to Bitcasa?
+####<a id="move-files'></a>What's the best way to move my files to Bitcasa?
 
 Transfer data to your Infinite Driving using the *copy* action on your computer. If you want to delete local content after a transfer is complete, check the web portal to make sure your files are available before deleting items on your computer. 
 
