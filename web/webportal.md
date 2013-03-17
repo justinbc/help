@@ -19,6 +19,7 @@ title: All about the Web Portal
 * [I don't see any thumbnails! Why?](#thumbnails)
 * [Upload more than one file or folder at a time.](#upload)
 * [How do I share a file or folder?](#share)
+* [Why are files downloaded in .zip?](#zip)
 
 
 
@@ -76,8 +77,12 @@ Yes. However, you'll be unable to delete files and folders that are *mirrored*. 
 ####<a id="thumbnails"></a>I don't see any thumbnails!
 Try logging out and then back in to the web portal. You should see your thumbnails appear after a fresh login. 
 
+---
+
 ####<a id="upload"></a>How can I upload more than one file or folder at a time?
 To upload multiple files, hold Ctrl (PC) or Command (Mac) when you clicking to select multiple files. There's no way to upload multiple folders just yet. 
+
+---
 
 ####<a id="share"></a>How do I share a file or folder?
 You can easily share your photos, videos, documents, and more with friends and colleagues, even if they don't have Bitcasa. To share files from the web portal: 
@@ -87,7 +92,9 @@ You can easily share your photos, videos, documents, and more with friends and c
 3. In the dialog box, click *Copy Link*.
 4. Send the link to anyone over email, IM, Facebook, Twitter, etc.
 
-####Why is everything downloaded in a .zip file? 
+---
+
+####<a id="zip"></a>Why is everything downloaded in a .zip file? 
 Whenever you download more than one file, we compress everything in to one folder. 
 
 
