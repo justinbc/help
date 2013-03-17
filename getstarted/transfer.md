@@ -31,7 +31,8 @@ To mirror a folder:
 2. Locate the folder you want to mirror.
 3. Select **Bitcasa** from the drop down menu. 
 4. Select **Mirror this folder to Bitcasa**. 
-**Note**: Mirrored folders have a green Bitcasa logo overlay. 
+
+**Note**: Mirrored files and folders have a green Bitcasa logo overlay. 
 
 ![](http://f.cl.ly/items/2U2i2w331S3n2r0X3V1Q/Finder%202.png)
 
