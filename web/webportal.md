@@ -21,6 +21,8 @@ title: All about the Web Portal
 * [How do I share a file or folder?](#share)
 * [Why are files downloaded in .zip?](#zip)
 
+---
+
 
 
 ####<a id="access"></a>What is Bitcasa web access?
