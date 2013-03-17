@@ -47,7 +47,8 @@ width: 100%;
 }
 
 .panel {background: #fff;
-padding: 30px;
+padding: 10px 26px 10px 26px; 
+
 margin: 40px auto 20px auto;
 border-radius: 5px;
 -moz-border-radius: 5px;
@@ -109,7 +110,7 @@ list-style-type: none;
 float: left;
 margin-left: 0px;
 margin-bottom: 8px;
-width: 330px; }
+width: 320px; }
   
     ul {  padding: 0; float: left;list-style: none;width: 100%;}
     ol { padding:0; margin-left: 36px; }
