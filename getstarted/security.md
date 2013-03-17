@@ -14,7 +14,7 @@ All data is encrypted client-side before being sent to Bitcasa. Because data is 
 ---
 
 ####Your billing information is protected
-Sensitive information is stored using several layers of encryption in a segmented network with no public internet access.New encryption keys are generated on a daily basis, existing keys are rotated on a regular basis.
+Sensitive information is stored using several layers of encryption in a segmented network with no public internet access. New encryption keys are generated on a daily basis, existing keys are rotated on a regular basis.
 
 Sensitive information is encrypted by an SSL connection when in transit over public networks. SSL connections are limited to SSLv3 and TLSv1. Our billing system adheres to the PCI Data Security Standard (PCI DSS) for Service Providers.
 
@@ -27,5 +27,16 @@ Bitcasa and Amazon keep redundant backups of all data over multiple locations to
 
 ####Your data remains private
 We guard your privacy to the best of our ability and work hard to protect your information from unauthorized access. Bitcasa employees cannot view the content of the files you store in your Bitcasa account. In addition, we employ a number of physical and electronic security measures to protect user information from unauthorized access.
+
+---
+
+####Third-party Apps -- this paragraph makes zero sense!
+If you choose to access Bitcasa using third-party applications (“apps”), be aware that those apps utilize their own security protocols and have their own privacy policies. If you’re not comfortable with the privacy and security features of those apps, you shouldn’t use them to access Bitcasa. For example, third-party apps might not employ encryption when transmitting data, might collect information that Bitcasa does not, and might use information differently than Bitcasa does.
+
+---
+####Add your own layer of encryption to Bitcasa
+Bitcasa applies encryption to your files on the desktop before they have been uploaded. Users who wish to manage their own encryption keys can apply encryption before storing their files on Bitcasa. Please note that if you encrypt files before uploading them, some features will not be available, such as creating public links. Doing so will also make it impossible for us to recover your data if you lose your encryption key.
+
+
 
 
