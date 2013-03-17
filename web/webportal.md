@@ -11,7 +11,7 @@ title: All about the Web Portal
 * [How do I rollback to a previous file version?](#rollback)
 * [How do I modify my account information?](#modify-account)
 * [Can I edit documents within the web portal?](#edit)
-* [Can I access the portal from my mobile device?](#mobile)
+* [Access the portal from your mobile device.](#mobile)
 * [How does the web portal play videos?](#videos)
 * [What are the browser requirements?](#browser)
 * [Can I reorganize my files on the portal?](#organize)
