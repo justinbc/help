@@ -19,6 +19,7 @@ published: true
 ###Learn how to use the Bitcasa web interface
 
 * [All about the web portal](web/webportal)
+* [Uploading files through the web portal](web/web-upload)
 
 ---
 
