@@ -8,6 +8,7 @@ title: Bitcasa Help Center
 * [Known issues with Bitcasa](product/known-issues)
 * [Frequently Asked Questions](getstarted/faq)
 * [Install Bitcasa on your desktop](getstarted/desktop)
+* [Transferring files to your Infinite Drive](getstarted/transfer)
 
 ---
 
