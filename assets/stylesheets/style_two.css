@@ -1,0 +1,120 @@
+
+
+body { color: #212C2F; font: normal normal 400 16px/1.60em "source-sans-pro", "Helvetica Neue", helvetica, arial, sans-serif; margin: 0em auto; width: 48em; -webkit-font-smoothing: antialiased;}
+      a:link { color: #477b96; font-weight: 400;text-decoration: underline; }
+      a:visited { color: #258; }
+      a:hover {color: #525E7B; text-decoration: underline;}
+      blockquote,ol,p,ul { display: block; margin: 0 0 1.5em }
+      blockquote { border-left: solid .1em #E4E4E4; color: #919191; padding: 0 1.5em 0 1.4em }
+      code { text-align: center;font: normal normal 400 13px/1.5em "Lucida Grande", "Lucida Sans Unicode", Verdana, Helvetica, Arial, sans-serif; color:#666; padding-bottom: 15px;}
+     
+
+      pre { display: block; font: normal normal 87.5%/1.71428571em monospace,sans-serif; margin: 1.71428571em }
+      h1,h2,h3,h4,h5,h6 { font-family: "source-sans-pro", "Helvetica Neue", helvetica, arial, sans-serif; text-align: left; }
+      h1 { font-size: 27px; line-height: 1.3334em; margin: 0 0 .1666em; font-weight: 800;}
+      h2 { font-size: 160%; line-height: 1.28571429em; font-weight: 800; color: #FF6600;  }
+      h3 { font-size: 116%; margin-bottom:22px;font-weight: 300; color: #999;  margin-top: -20px;}
+      h4 { font-size: 118%; margin-bottom:16px;font-weight: 800; color: #444;  margin-top: -10px;}
+      h5 {font-size: 180%; font-weight: 300; text-transform: none;text-align: center; color: #444; display: block;font-family: "source-sans-pro", "Helvetica Neue", helvetica, arial, sans-serif;padding-top: 5px; line-height:1.3; }
+      h6 {font-size:160%; color: #444; font-weight: 800; text-align: center; margin-top: 20px;}
+
+
+      table { border-collapse: collapse; margin: 1.5em 0; width: 100% }
+      td,th { border: solid .1em #000; font-family: sans-serif; font-size: 87.5%; line-height: 1.71428571em; text-align: center }
+      hr { border: 0;  margin-bottom: 26px; height: 0;border-top: 1px solid rgba(0, 0, 0, 0.1); border-bottom: 1px solid rgba(255, 255, 255, 0.3); clear:both;}
+strong {font-weight: 700;}
+
+.content {color: #212C2F; font: normal normal 400 16px/1.60em "source-sans-pro", "Helvetica Neue", helvetica, arial, sans-serif; margin: 0em auto; width: 47em; -webkit-font-smoothing: antialiased;}
+
+
+/*Header and Navigation*/
+
+div.nav {text-align: left; width: 100%;}
+div.header {text-align: center; margin-top: -20px;}
+
+div.nav ul li {float: none;
+list-style-type: none;
+display: inline;
+margin-left: 0px;
+margin-top: 8px;
+margin-right: 8px;
+padding: 0 8px 0;
+font-size: 16px;
+width: 100%;
+
+}
+
+
+div.nav ul { margin-top: 40px; margin-left: 280px; padding-top: 28px; width: 100%; float: none;}
+div.logo { margin-bottom: 10px; margin-top: 25px; width: 72px;}
+
+/*Footer*/
+
+.footer { margin-top: 5px; margin-bottom: 70px;}
+
+div.end ul { list-style: none; text-align: center;  width: 100%;}
+
+ div.end ul li {
+color: #DDD;
+font-size: 16px;
+display: inline;
+float: none;
+padding-right: 15px;
+line-height: 1.5em; width: 100%;
+margin: 0 .15em 0 0;
+}
+
+/*End Page - Engage*/
+
+div.engage {
+border: 1px solid #ddd;
+clear: both;
+text-align: center;
+padding: 22px;
+margin: 10px auto 20px auto;
+border-radius: 2px;
+}
+
+div.engage p{ margin-top: -40px; line-height: 1.5;}
+
+
+img.avatar { margin: 0px 10px 10px 0px;max-width: 245px;max-height: 245px;display: block;float: left;overflow: hidden;clear: both;-moz-border-radius: none;
+-webkit-border-radius: none;
+-moz-background-clip: none;
+-webkit-background-clip: none;
+background-clip: none;
+box-shadow: 0px 0px 0px rgba(0,0,0,.0);
+-moz-box-shadow: 0px 0px 0px rgba(0,0,0,.0);}
+
+/*List Styles*/
+
+ul li {
+list-style-type: none; 
+float: left;
+border-bottom: 1px solid #efefef;
+margin-left: 0px;
+margin-bottom: 8px;
+width: 100%; }
+  
+    ul {  padding: 0; float: left;list-style: none;width: 100%;}
+    ol { padding:0; margin-left: 36px; }
+
+
+
+ol li {
+margin-left: 10px;
+padding-bottom: 8px;
+
+}
+
+img { max-width: 750px; display: block; margin: 1.5em auto; border-radius: 5px; 
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+-moz-background-clip: padding;
+-webkit-background-clip: padding-box;
+background-clip: padding-box;
+box-shadow: 0px 1px 5px rgba(0,0,0,.6);
+-moz-box-shadow: 0px 1px 5px rgba(0,0,0,.6);
+}
+
+

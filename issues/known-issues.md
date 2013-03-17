@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: known
 title: Known Issues
 published: true
 ---
@@ -7,7 +7,8 @@ published: true
 ##Known Issues
 ###A list of known issues and resolutions. Updated weekly.
 
-####Login Credentials Not Remembered (Windows)
+* Login Credentials Not Remembered (Windows)
+* Files are grey in the desktop application; 1984 date (Mac)
 
 There is an issue where the Windows desktop client will ask a user to login upon startup, even if the Remember Password option has been enabled. Our developers are aware of this issue, and are working on creating a permanent fix. In the meantime, below are instructions for a workaround:
 
