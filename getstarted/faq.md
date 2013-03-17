@@ -15,6 +15,7 @@ published: true
 * [What are the upload risks?](#upload-risks)		
 * [What's the best way to move my files?](#move-files)		
 * [What's the deal with transfer speeds?](#transfer-speeds)
+* [What happens when I exceed 10GB?[(#exceed)
  
 
 
@@ -93,4 +94,13 @@ We do quite a bit of encryption work on your files before they're sent to our se
 If you are not on the North American continent, you are may have performance that is less than optimal. We are exploring additional datacenters around the world to improve performance for our non-US customers. 
 
 **Equipment:** Many low-end consumer routers can't handle high traffic rates. You'd see this reflected in speed tests though. Some devices have very large or very small buffers, both of which can impact TCP algorithms. 
+
+---
+
+####<a id="exceed"></a>What if I exceed the 10GB storage limit with a Free account?
+
+We'll send you a quick email notification to let you know you've gone over the 10GB limit. You will also see a few alerts within your other Bitcasa applications (web, desktop, mobile). You are given two (2) days to upgrade to Infinite or reduce your storage to less than 10GB.
+
+If your account is over the 10GB storage limit after the two-day period, you will no longer be able to upload any additional content and will only be able to view or delete files. After 30 days, your account will be suspended and you will not be able to sign into your account unless you upgrade to Infinite or reduce your storage to less than 10GB. Your account and content are retained for an additional 90 days from the date your account is suspended. If you upgrade within 90 days, your account and files will be fully restored!
+
 

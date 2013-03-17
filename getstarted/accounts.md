@@ -42,10 +42,4 @@ You will receive an email with a reset link. Clicking the link will require you 
 
 ![](http://f.cl.ly/items/252N1n2L3Y0D2L0m163F/iA%20Writer.png)
 
-___
 
-####What if I exceed my 10GB storage limit with a Free account?
-
-If you exceed your 10GB storage limit with your Free account, we 'll send you a quick email to let you know that you've got one over the 10GB limit. You'll also see other visual indicators within the applications (web, desktop, mobile). You will have two (2) days to upgrade your account to Infinite, or reduce your storage to less than 10GB.
-
-If your account is over the 10GB storage limit after the two-day period, you will no longer be able to upload any additional content and will only be able to view or delete files. After 30 days, your account will be suspended and you will not be able to sign into your account unless you upgrade to Infinite or reduce your storage to less than 10GB. Your account and content are retained for an additional 90 days from the date your account is suspended. If you upgrade within 90 days, your account and files will be fully restored! 
