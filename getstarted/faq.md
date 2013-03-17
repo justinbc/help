@@ -7,18 +7,18 @@ published: true
 ##Frequently Asked Questions
 ###Simple answers to common questions
 
-[What is Bitcasa?](#1)
-[What kind of security features are in place?][]
-[Is there a limitation on file size?](#3)
+[What is Bitcasa?](#bitcasa)
+[What kind of security features are in place?](#security)
+[Is there a limitation on file size?](#limitation)
 
 
-####<a id="#1">What is Bitcasa?</a>
+####<a id="bitcasa">What is Bitcasa?</a>
 
 Bitcasa is an external hard drive in the cloud that never runs out of space. You can access your data from anywhere and from any device. Ditch the external hard drives, and store your files in your Bitcasa Infinite Drive to free up space on your computer and mobile device. Never run out of space again! 
 
 ---
 
-####What kind of security features are in place?
+####<a id="security">What kind of security features are in place?</a>
 
 All of your data is private, protected, and secure. Files and folders uploaded to Bitcasa are encrypted using AES-256 bit encryption and sent over a secure connection using Secure Socket Layer (SSL).
 
@@ -26,7 +26,7 @@ All data is encrypted client-side before being sent to Bitcasa. Because data is 
 
 ---
 
-####[Is there a limitation on file size?][3]
+####<a id="limitation">Is there a limitation on file size?</a> 
 
 There are no restrictions on file size. Upload away! 
 
