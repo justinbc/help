@@ -15,7 +15,7 @@ published: true
 * [What are the upload risks?](#upload-risks)		
 * [What's the best way to move my files?](#move-files)		
 * [What's the deal with transfer speeds?](#transfer-speeds)
-* [What happens when I exceed 10GB?[(#exceed)
+* [What happens when I exceed 10GB?](#exceed)
  
 
 

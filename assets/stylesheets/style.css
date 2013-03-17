@@ -1,6 +1,8 @@
 
 
-body { color: #212C2F; font: normal normal 400 16px/1.60em "source-sans-pro", "Helvetica Neue", helvetica, arial, sans-serif; margin: 0em auto; width: 48em; -webkit-font-smoothing: antialiased;}
+body {   background-image: url(http://f.cl.ly/items/2l1M3v0l2W1H0C031U1z/lightg_bg.png);
+  background-repeat: repeat;
+color: #212C2F; font: normal normal 400 16px/1.60em "source-sans-pro", "Helvetica Neue", helvetica, arial, sans-serif; margin: 0em auto; width: 48em; -webkit-font-smoothing: antialiased;}
       a:link { color: #477b96; font-weight: 400;text-decoration: underline; }
       a:visited { color: #258; }
       a:hover {color: #525E7B; text-decoration: underline;}
