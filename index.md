@@ -23,7 +23,7 @@ title: Bitcasa Help Center
 ##Extensions and Plugins
 ###Use browser extensions and add-ons to transfer files
 
-* [Chrome - Bitcasa Everywhere](extensions/chrome-extension)
+* [Chrome - Bitcasa Everywhere](extensions/chrome-extension)		
 
 
 
