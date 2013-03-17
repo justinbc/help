@@ -12,6 +12,11 @@ published: true
 * Bitcasa Infinite Drive "ejects", appears to be empty (Mac)
 * Slowness, timing out when sharing a Bitcasa link
 * Finder restarts upon exiting the Bitcasa desktop application (Mac)
+* Bitcasa crashes while mirroring, does not resume
+* Login credentials not remembered (Windows)
+* Total usage counter displaying incorrect information
+* Slow uploads associated with latency
+
 
 
 
