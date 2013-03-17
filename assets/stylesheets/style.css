@@ -47,6 +47,7 @@ width: 100%;
 }
 
 .panel {background: #fff;
+  border-top: 20px solid #ccc;
 padding: 10px 26px 60px 26px; 
 margin: 40px auto 12px auto;
 border-radius: 2px;

@@ -4,6 +4,8 @@ title: Frequently Asked Questions
 published: true
 ---
 
+[Home](#) > [Frequently Asked Questions](#)
+
 ##Frequently Asked Questions
 ###Simple answers to common questions
 
