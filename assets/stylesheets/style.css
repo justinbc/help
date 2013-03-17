@@ -1,7 +1,6 @@
 
 
-body {   background-image: url(http://f.cl.ly/items/2l1M3v0l2W1H0C031U1z/lightg_bg.png);
-  background-repeat: repeat; 
+body {   
 color: #212C2F; font: normal normal 400 16px/1.60em "source-sans-pro", "Helvetica Neue", helvetica, arial, sans-serif; margin: 0em auto; width: 100%; -webkit-font-smoothing: antialiased;}
       a:link { color: #477b96; font-weight: 400;text-decoration: underline; }
       a:visited { color: #258; }
@@ -47,6 +46,7 @@ width: 100%;
 }
 
 .panel {background: #fff;
+
 padding: 10px 26px 60px 26px; 
 margin: 40px auto 12px auto;
 border-radius: 2px;
