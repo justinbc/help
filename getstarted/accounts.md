@@ -5,10 +5,15 @@ published: true
 ---
 
 ##Accounts and Billing
-###Manager your account settings and billing information
+###Manage your account settings and billing information
+
+* [Change your name and email address](#change)
+* [Update your billing information](#billing)
+* [Resetting your password](#password)
 
 
-####Changing your name and email address
+
+####<a id="change"></a>Changing your name and email address
 
 Head over to <https://my.bitcasa.com> and click on your email address in the upper right-hand corner of the web portal. Clicking on the **Profile** tab will show you some basic account information. Click the green *edit* link off to the right to make changes to your name and email address. When you're finished, click the green *save* link. 
 
@@ -18,7 +23,7 @@ Head over to <https://my.bitcasa.com> and click on your email address in the upp
 
 ---
 
-####Update your billing information
+####<a id="billing"></a>Update your billing information
 
 You know the drill! Log in to the web portal at <https://my.bitcasa.com>. Click on your email address in the upper right-hand corner of the web portal. Click the **Billing** tab from the menu bar. Modify your payment information or cancel your account. 
 
@@ -29,7 +34,7 @@ Changes will be effective on the billing expiration date of your current subscri
 
 ---
 
-####I forgot my password! How do I reset it? 
+####<a id="password"></a>I forgot my password! How do I reset it? 
 
 To reset your password, go to the [password reset](https://my.bitcasa.com/forgot-password) page, enter the email address you used to sign-up, and then click **Request**. 
 
