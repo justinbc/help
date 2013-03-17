@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Bitcasa Help Center
+published: true
 ---
 
 ##Getting Started
