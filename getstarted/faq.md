@@ -14,6 +14,7 @@ published: true
 [How do I restore a backup?](#restore)		
 [What are the upload risks?](#upload-risks)		
 [What's the best way to move my files?](#move-files)		
+[What's the deal with transfer speeds?](#transfer-speeds)
  
 
 
@@ -75,13 +76,13 @@ We support a bunch of popular formats, however there are a few that require spec
 
 ---
 
-####<a id="move-files'></a>What's the best way to move my files to Bitcasa?
+####<a id="move-files"></a>What's the best way to move my files to Bitcasa?
 
 Transfer data to your Infinite Driving using the *copy* action on your computer. If you want to delete local content after a transfer is complete, check the web portal to make sure your files are available before deleting items on your computer. 
 
 ---
 
-####What's the scoop on transfer speeds?
+####<a id="transfer-speeds'"></a>What's the scoop on transfer speeds?
 
 We do quite a bit of encryption work on your files before they're sent to our servers. Assuming there is no network congestion between you and our data centers,  for each 1Mbps of upload throughput, you should expect 1GB to take about 2.5 hours. 5Mbps would finish 1GB in about 25 minutes, if everything is working smoothly. Other things that affect transfer speeds: 
 
