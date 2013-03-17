@@ -7,6 +7,11 @@ published: true
 ##Frequently Asked Questions
 ###Simple answers to common questions
 
+[What is Bitcasa?][]
+[What kind of security features are in place?][]
+[Is there a limitation on file size?][]
+
+
 ####What is Bitcasa?
 
 Bitcasa is an external hard drive in the cloud that never runs out of space. You can access your data from anywhere and from any device. Ditch the external hard drives, and store your files in your Bitcasa Infinite Drive to free up space on your computer and mobile device. Never run out of space again! 
