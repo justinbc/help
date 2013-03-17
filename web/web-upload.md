@@ -5,7 +5,7 @@ published: true
 ---
 
 ##Upload files using the web portal
-###You can add files anywhere from using the web interface
+###You can add files from anywhere using the web interface
 
 1. Login to the portal at <http://my.bitcasa.com>
 2. Click on the **Upload** tab in the upper right-hand corner of the web portal. 
