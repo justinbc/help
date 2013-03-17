@@ -9,7 +9,9 @@ published: true
 
 [What is Bitcasa?](#bitcasa)		
 [What kind of security features are in place?](#security)		 
-[Is there a limitation on file size?](#limitation)		 
+[Is there a limitation on file size?](#limitation)		
+[I accidentally deleted a file or folder from my Infinite Drive. Can I recover my data?](#deleted)		
+ 
 
 
 ####<a id="bitcasa">What is Bitcasa?</a>
@@ -34,7 +36,7 @@ There are no restrictions on file size. Upload away!
 
 ---
 
-####I accidentally deleted a file or folder from my Infinite Drive. Can I recover my data?
+####<a id="deleted"></a>I accidentally deleted a file or folder from my Infinite Drive. Can I recover my data?
 
 Bitcasa maintains a record of your files and folders that belong to you. When a change is made to your folders, including deletion of files or folders, we update your record and save the changes you made. To restore your files and folders, revert to a previous record by following these steps: 
 
