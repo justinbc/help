@@ -12,7 +12,7 @@ published: true
 3. Click on **Upload files to this folder**.
 4. Select the content you want to upload. To upload multiple files, hold Ctrl (PC) or Command (Mac) when you clicking to select multiple files. There's no way to upload multiple folders just yet. 
 
-![](http://f.cl.ly/items/080K2H2p0z1g0H0U1w1r/HipChat.png)
+![](http://f.cl.ly/items/0Z3r140m043v040T3S2R/Google%20Chrome.png)
 
 You'll see a small notification in the portal when the upload has finished. 
 
