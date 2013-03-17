@@ -2,8 +2,9 @@
   <body{% if page.class %} class="{{ page.class }}" {% endif %}>
    <div class="content">
     {% include header.html %}
-
+<div class="panel">
       {{ content }}
+  </div>
       <div align="right"><a href="/help">&larr; Back to the index</a></div>
     {% include footer.html %}
 </div>
