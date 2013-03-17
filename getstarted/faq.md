@@ -9,7 +9,7 @@ published: true
 
 [What is Bitcasa?](#1)
 [What kind of security features are in place?][]
-[Is there a limitation on file size?][]
+[Is there a limitation on file size?](#3)
 
 
 ####<a id="#1">What is Bitcasa?</a>
@@ -26,7 +26,7 @@ All data is encrypted client-side before being sent to Bitcasa. Because data is 
 
 ---
 
-####Is there a limitation on file size? 
+####<a id="#3">Is there a limitation on file size?</a> 
 
 There are no restrictions on file size. Upload away! 
 
