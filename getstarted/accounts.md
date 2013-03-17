@@ -16,6 +16,8 @@ Head over to <https://my.bitcasa.com> and click on your email address in the upp
 
 **Note:** You'll need to enter your password to confirm these changes. 
 
+---
+
 ####Update your billing information
 
 You know the drill! Log in to the web portal at <https://my.bitcasa.com>. Click on your email address in the upper right-hand corner of the web portal. Click the **Billing** tab from the menu bar. Modify your payment information or cancel your account. 
@@ -24,6 +26,8 @@ You know the drill! Log in to the web portal at <https://my.bitcasa.com>. Click 
 
 **Note:** Cancellation will end billing and remove your access to premium features at the end of your current billing cycle.
 Changes will be effective on the billing expiration date of your current subscription. You'll be notified once your request has been processed.
+
+---
 
 ####I forgot my password! How do I reset it? 
 
