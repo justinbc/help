@@ -20,6 +20,7 @@ published: true
 
 * [All about the web portal](web/webportal)
 * [Uploading files through the web portal](web/web-upload)
+* [Playing audio and video in the browser](web/play-media)
 
 ---
 
